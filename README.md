@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mathumitha1106/leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Mathumitha1106/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Mathumitha1106/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Mathumitha1106/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mathumitha1106/leetcode/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Mathumitha1106/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
